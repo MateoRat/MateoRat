@@ -1,4 +1,4 @@
-Hey! I'm Mateo. I'm an artist, writer, pale emo twink who's the gay agenda, and a stupid beginner.
+Hey! I'm Mike. I'm an artist, writer, a stupid beginner, and the gay agenda.
 
 Currently I'm trying to learn the basics of programming. I'm interested in mainly JS and Python atm, I also know a bit of HTML and CSS for various projects I'm working on, though I'm defo still learning lol. I'm interested in creating a Discord bot some time in the future, I like some web development stuff, and I have way too many ideas and concepts that I think up.
 
@@ -9,4 +9,4 @@ In terms of hobbies and some of my other stupid fandoms/spins and hyperfixations
 You can find all my socials at https://mateorat.carrd.co/ <br/>
 TikTok @GlamrockinMike <br/>
 Insta and Twitter @MateoRat <br/>
-Discord 09/27/2022#0965
+Discord 09/27/2022#1987
